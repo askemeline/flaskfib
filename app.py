@@ -3,7 +3,6 @@ from flask import Flask
 app = Flask(__name__)
 
 @app.route('/fib/<int:n>')
-
 def convert_fibonacci(n):
     return format(fibonacci(n))
 
