@@ -1,11 +1,12 @@
-##flaskfib
+## flaskfib
 
 An API created in Flask with an endpoint that returns the x number in the fibonacci sequence.
 
-Online demo:https://fibonacciflask.herokuapp.com/fib/0
+Online demo: https://fibonacciflask.herokuapp.com/fib/1
+change the number at the end in the url https://fibonacciflask.herokuapp.com/fib/x
 
 
-##Installation
+## Installation
 
 Clone the project, then run:
 pip install -r requirements.txt
